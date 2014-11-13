@@ -1,0 +1,4 @@
+name: BukkitTabAPIPlusExample
+main: pl.defabricated.TabListPlugin
+author: defabricated
+version: 1.0
