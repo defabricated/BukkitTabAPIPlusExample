@@ -1,4 +1,5 @@
-name: BukkitTabAPIPlusExample
+name: TabAPIPlusExample
 main: pl.defabricated.TabListPlugin
 author: defabricated
 version: 1.0
+depend: [TabAPIPlus]
